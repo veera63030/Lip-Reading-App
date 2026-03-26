@@ -1,0 +1,7 @@
+streamlit
+tensorflow
+opencv-python-headless
+numpy
+face_recognition
+dlib
+h5py
